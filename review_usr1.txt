@@ -1,0 +1,2 @@
+141802|Anglais|usr1: Amélioration aussi, faire en sorte que l'on soit moins souvent à attendre pendant que les autres parlent
+142027|Conception objet test|usr1: Si les test paramétriques et structurels sont dans les compétence, pourquoi pas dans le programme?
