@@ -1,4 +1,4 @@
-Pre-req)
+Pre-r)
 - bases de programmation (notamment en C)
 
 Competences acquises:
@@ -8,8 +8,7 @@ Competences acquises:
 
 Programme:
 - comprendre de l'assembleur
-- savoir écrire un programme en assembleur
-- savoir traduire un programme assembleur dans un langage (en C par exemple)
+- savoir écrire un programme en assembleur- savoir traduire un pr assembleur dans un langage (en C par exemple)
 - comprendre pourquoi certaines instructions pourtant plus longue en C sont plus rapide à executer
 - débugger un programme pour ne pas faire exploser la bombe
 
