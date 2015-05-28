@@ -3,3 +3,4 @@
 142206|Anglais|usr1: Dans les compétences aquises, il y a aussi pouvoir la présentation d'un sujet à l'oral (TED)
 142427|Conception objet test|usr1: C'est pas comme si certaines personnes faisait exprès d'appeler le prof non plus...
 142459|ppp|usr1: ça se mettrait dans les compétence acquise ça, non?
+142612|Conception objet test|usr1: En Cm, on a aussi vu les conséquences de tests foireux
