@@ -14,7 +14,7 @@ Programme:
 
 # TD-TP
 Table de décision et diagramme de flow, données de test, oracle ...
-Codage des tests unitaires (=fonctionnel+paramétrique+ en java avec JUnit et JParams.
+Codage des tests unitaires (=fonctionnel+paramétrique pour ceux qui n'ont rien pigé) en java avec JUnit et JParams.
 
 
 Ameliorations a apporter:
