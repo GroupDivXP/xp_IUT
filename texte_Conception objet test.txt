@@ -1,9 +1,9 @@
 Pre-requis:
-Avoir suivi les cours d'algo 1 (savoir ce que c'est qu'une fonction, une variable, un language impératif).
+Avoir suivi les cours d'algo (savoir ce que c'est qu'une fonction, une variable, un language impératif).
 
 
 Competences acquises:
-Conception object via des diagrammes UML.
+Conception objets via des diagrammes UML.
 
 
 Programme:
