@@ -2,3 +2,4 @@
 142005|Anglais|usr5: Je suis d'accord faudrait éviter ce genre de périodes de flottement
 142105|Anglais|usr5: Ah et synthèse, pas sythèse #grammarnazi
 142212|Conception objet test|usr5: J'avoue je me faisait bourrer sur street quand il passait dans les rangs :'(
+142551|Conception objet test|usr5: Sinon je pense qu'à la fin tu voulais dire "driven"
