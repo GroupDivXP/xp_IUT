@@ -11,3 +11,4 @@
 143056|Anglais|usr1: Ah oue, je l'ai oublié :)
 143410|Anglais|usr1: C'est possible de rajouter "et en comprendre un" dans "Etre capable de présenter un sujet"?
 143649|Anglais|usr1: Je valide (4/4) Plus que CO
+143852|Conception objet test|usr1: Et il faut mettre les tests paramétriques dans les TD-TP!
