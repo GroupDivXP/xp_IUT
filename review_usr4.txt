@@ -20,3 +20,4 @@
 143915|Conception objet test|usr4: Voui voui, il s'en bat les couilles des reviews je crois x)
 144017|Conception objet test|usr4: Aahh, il a rajouté les tests paramétriques, plus que le jeu :p
 144059|Conception objet test|usr4: Non x)
+144155|Conception objet test|usr4: Il reste plus qu'un casse couille pour terminer :D
