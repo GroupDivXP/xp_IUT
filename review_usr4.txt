@@ -1,2 +1,3 @@
 141041|ppp|usr4: Dans les améliorations : le retour de manu
 141515|Conception objet test|usr4: Dans les améliorations : autoriser les élèves à jouer en cours parce que la matière n'est pas très très intéressante :/
+141602|Anglais|usr4: En amélioration : communiquer plus pour améliorer notre accent
