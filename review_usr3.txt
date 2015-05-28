@@ -8,3 +8,5 @@
 142928|ppp|usr3: c bon
 143147|ppp|usr3: alllezzz ragequit
 143409|Methode Numerique|usr3: FINI
+143424|ppp|usr3: FINI
+143435|Archi|usr3: FINI
