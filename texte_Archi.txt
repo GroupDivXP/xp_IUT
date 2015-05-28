@@ -1,6 +1,6 @@
 Pre-requis: 
 - une bonne connaissance en système (Ubuntu)
-- base de programmation (notamment en C)
+- bases de programmation (notamment en C)
 
 
 Competences acquises:
