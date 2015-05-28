@@ -2,3 +2,4 @@
 141515|Conception objet test|usr4: Dans les améliorations : autoriser les élèves à jouer en cours parce que la matière n'est pas très très intéressante :/
 141602|Anglais|usr4: En amélioration : communiquer plus pour améliorer notre accent
 142015|Conception objet test|usr4: Bah ouais mais quand c'est autorisé c'est moins chiant quand même, pas obligé de faire un alt tab et perdre sur agar.io
+142123|Anglais|usr4: Dans le même style, avoir des cours en plus petit groupe (6/7 personnes) un peu comme à epitech, tu progresses bien plus vite comme ça
