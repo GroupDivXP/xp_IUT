@@ -13,7 +13,8 @@ Programme:
 3. Les tests structurels et les mocks
 
 # TD-TP
-Tests unitaires en java avec JUnit et JParams.
+Table de décision et diagramme de flow, donnée de test, oracle ...
+Codage des tests unitaires en java avec JUnit et JParams.
 
 
 Ameliorations a apporter:
