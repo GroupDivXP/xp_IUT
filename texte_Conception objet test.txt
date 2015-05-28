@@ -15,7 +15,7 @@ Programme:
 - diagramme d'interaction
 
 # TD-TP
-- utilisation des diagrammes dans différents cas
+- utilisation des diagrammes dans différents cas pratiques
 - utilisation de logiciels comme Dia, Visual Paradigm ...
 
 Ameliorations a apporter:
