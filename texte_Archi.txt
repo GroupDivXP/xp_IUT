@@ -1,0 +1,16 @@
+Pre-requis: 
+- une bonne connaissance en système (Ubuntu)
+- base de programmation (notamment en C)
+
+
+Competences acquises:
+- connaissance des instructions en assembleur
+- utilisation d'un debugger (gdb)
+
+
+Programme:
+- savoir écrire un programme en assembleur
+- savoir traduire un programme assembleur dans un langage (en C par exemple)
+
+Ameliorations a apporter:
+- plus d'heures de TP
