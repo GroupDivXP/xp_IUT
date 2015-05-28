@@ -1,5 +1,5 @@
 Pre-requis: 
-- une bonne connaissance en système (Ubunt)
+- une bonne connaissance en système (Ubun)
 - bases de programmation (notamment en C)
 
 Competences acquises:
