@@ -10,7 +10,7 @@ Programme:
 # CM
 1. Présentation des tests
 2. Les tests fonctionnels (boite noire)
-3. Les test paramétriques et les mocks
+3. Les tests structurels et les mocks
 
 # TD-TP
 Tests unitaires en java avec JUnit et JParams
