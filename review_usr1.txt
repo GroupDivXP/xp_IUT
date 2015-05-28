@@ -12,3 +12,4 @@
 143410|Anglais|usr1: C'est possible de rajouter "et en comprendre un" dans "Etre capable de présenter un sujet"?
 143649|Anglais|usr1: Je valide (4/4) Plus que CO
 143852|Conception objet test|usr1: Et il faut mettre les tests paramétriques dans les TD-TP!
+144132|Conception objet test|usr1: ah, j'avais lu que test fonctionnel, autant pour moi (je comprend vite de travers) Je valide donc 3/4)
