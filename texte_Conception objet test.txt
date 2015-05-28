@@ -8,7 +8,7 @@ Développement de test fonctionnel, paramétrique et structurel.
 
 Programme:
 # CM
-1. Présentation des tests
+1. Présentation des tests (leur raison d'être, les conséquences économiques)
 2. Les tests fonctionnels (boite noire)
 3. Les tests structurels et les mocks
 
@@ -16,4 +16,4 @@ Programme:
 Tests unitaires en java avec JUnit et JParams
 
 Ameliorations a apporter:
-Introduire le TDD (test dirven dev) voir l'extreme programming.
+Introduire le TDD (test driven dev) voir l'extreme programming.
