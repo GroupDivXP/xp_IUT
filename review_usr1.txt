@@ -9,3 +9,4 @@
 142856|ppp|usr1: je valide (3/4)
 143002|Conception objet test|usr1: Je valide pas, dans les TD-TP, toujours que les tests unitaires
 143056|Anglais|usr1: Ah oue, je l'ai oublié :)
+143410|Anglais|usr1: C'est possible de rajouter "et en comprendre un" dans "Etre capable de présenter un sujet"?
