@@ -15,4 +15,4 @@ Programme:
 - débugger un programme pour ne pas faire exploser la bombe
 
 Ameliorations a apporter:
-- plus d'heures de TP
+- plus d'heures de TP (sans prendre du temps sur les heures de TD ni de CM)
