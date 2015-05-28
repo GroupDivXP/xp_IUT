@@ -10,3 +10,4 @@
 143409|Methode Numerique|usr3: FINI
 143424|ppp|usr3: FINI
 143435|Archi|usr3: FINI
+145805|Archi|usr3: ce soft est un détecteur de gamin
