@@ -9,12 +9,12 @@ Développement de test fonctionnel, paramétrique et structurel.
 Programme:
 # CM
 1. Présentation des tests (leur raison d'être, les conséquences économiques)
-2. Les tests fonctionnels (boite noire) et paramétriques
+2. Les tests fonctionnels (boite noire)
 3. Les tests structurels et les mocks
 
 # TD-TP
 Table de décision et diagramme de flow, données de test, oracle ...
-Codage des tests unitaires en java avec JUnit et JParams.
+Codage des tests unitaires (=fonctionnel+paramétrique+ en java avec JUnit et JParams.
 
 
 Ameliorations a apporter:
