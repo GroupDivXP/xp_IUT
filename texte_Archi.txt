@@ -1,5 +1,5 @@
 Pre-requis: 
-- une bonne connaissance en sy)
+- une bonne connaissance en s)
 - bases de programmation (notamment en C)
 
 Competences acquises:
