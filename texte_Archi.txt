@@ -1,5 +1,5 @@
 Pre-requis: 
-- une bonne connaissance en système ()
+- une bonne connaissance en système)
 - bases de programmation (notamment en C)
 
 Competences acquises:
