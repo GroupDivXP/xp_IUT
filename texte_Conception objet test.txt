@@ -8,10 +8,11 @@ Développement de test fonctionnel, paramétrique et structurel.
 
 Programme:
 # CM
-
+1. Présentation des tests
+2. Les tests fonctionnels (boite noire)
+3. Les test paramétriques et les mocks
 
 # TD-TP
-- utilisation des diagrammes dans différents cas pratiques
-- utilisation de logiciels comme Dia, Visual Paradigm ...
+
 
 Ameliorations a apporter:
