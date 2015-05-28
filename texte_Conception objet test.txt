@@ -1,0 +1,21 @@
+Pre-requis:
+Avoir suivi les cours d'algo 1 (savoir ce que c'est qu'une fonction, une variable, un language impératif).
+
+
+Competences acquises:
+Conception object via des diagrammes UML.
+
+
+Programme:
+# CM
+- Introduction au modèle objet
+- diagramme de cas d'utilisation
+- diagramme de classe
+- diagramme objet
+- diagramme d'interaction
+
+# TD-TP
+- utilisation des diagrammes dans différents cas
+- utilisation de logiciels comme Dia, Visual Paradigm ...
+
+Ameliorations a apporter:
