@@ -17,3 +17,4 @@
 143440|Anglais|usr4: non
 143734|Conception objet test|usr4: CO il manque toujours l'autorisation pour jouer
 143827|Conception objet test|usr4: Moi je valide pas
+143915|Conception objet test|usr4: Voui voui, il s'en bat les couilles des reviews je crois x)
