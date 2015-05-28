@@ -5,3 +5,4 @@
 142459|ppp|usr1: ça se mettrait dans les compétence acquise ça, non?
 142612|Conception objet test|usr1: En Cm, on a aussi vu les conséquences de tests foireux
 142650|Anglais|usr1: Je parlais de pas de présenter (mais c'est bien), aussi d'en comprendre un
+142751|Archi|usr1: je valide (2/4)
