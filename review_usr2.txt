@@ -6,3 +6,4 @@
 143141|Conception objet test|usr2: moi perso je alt-tab pas, je laisse comme ça, même si il est derrière moi. J'assume!!
 143207|Conception objet test|usr2: il y a test paramétrique à ajouter aussi
 143310|Methode Numerique|usr2: Bon pour moi aussi!! GJ lilian!!(3/4)
+143411|Archi|usr2: validé!
