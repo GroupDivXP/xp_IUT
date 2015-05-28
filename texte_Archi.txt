@@ -1,5 +1,5 @@
 Pre-requis: 
-- une bonn)
+- une bon)
 - bases de programmation (notamment en C)
 
 Competences acquises:
