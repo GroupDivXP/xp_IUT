@@ -1,5 +1,4 @@
-Pre-requis: 
--)
+Pre-req)
 - bases de programmation (notamment en C)
 
 Competences acquises:
