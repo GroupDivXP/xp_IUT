@@ -10,3 +10,4 @@
 143405|Methode Numerique|usr5: bon (4/4) du coup
 143814|Conception objet test|usr5: Vous nous les brisez avec votre autorisation de jouer, osef je valide (1/4)
 143954|Conception objet test|usr5: JParams pour toi ça veut dire quoi ?
+144033|Conception objet test|usr5: Ta race valide x)
