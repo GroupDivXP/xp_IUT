@@ -1,5 +1,5 @@
 Pre-requis: 
-- u)
+-)
 - bases de programmation (notamment en C)
 
 Competences acquises:
