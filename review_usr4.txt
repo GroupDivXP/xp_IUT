@@ -15,3 +15,4 @@
 143227|Conception objet test|usr4: Ouais mais ça passe moins bien. Puis le mec est sympa, faut bien faire semblant de suivre
 143422|Methode Numerique|usr4: wow, lilian le dernier à commit le premier à terminer
 143440|Anglais|usr4: non
+143734|Conception objet test|usr4: CO il manque toujours l'autorisation pour jouer
