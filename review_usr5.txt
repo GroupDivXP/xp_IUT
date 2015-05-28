@@ -1,2 +1,3 @@
 141419|Conception objet test|usr5: C'est le test, pas la CO de base
 142005|Anglais|usr5: Je suis d'accord faudrait éviter ce genre de périodes de flottement
+142105|Anglais|usr5: Ah et synthèse, pas sythèse #grammarnazi
