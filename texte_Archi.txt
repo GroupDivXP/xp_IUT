@@ -8,7 +8,7 @@ Competences acquises:
 
 Programme:
 - comprendre de l'assembleur
-- savoir écrire un programme en assembleur- sa assembleur dans un langage (en C par exemple)
+- savoir écrire un programme en assembleur- s assembleur dans un langage (en C par exemple)
 - comprendre pourquoi certaines instructions pourtant plus longue en C sont plus rapide à executer
 - débugger un programme pour ne pas faire exploser la bombe
 
