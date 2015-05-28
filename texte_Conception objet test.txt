@@ -1,18 +1,14 @@
 Pre-requis:
-Avoir suivi les cours d'algo (savoir ce que c'est qu'une fonction, une variable, un language impératif).
+Avoir suivi les cours de conception et programmation objets.
 
 
 Competences acquises:
-Conception objets via des diagrammes UML.
+Développement de test fonctionnel, paramétrique et structurel.
 
 
 Programme:
 # CM
-- Introduction au modèle objet
-- diagramme de cas d'utilisation
-- diagramme de classe
-- diagramme objet
-- diagramme d'interaction
+
 
 # TD-TP
 - utilisation des diagrammes dans différents cas pratiques
