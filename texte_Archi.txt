@@ -1,5 +1,5 @@
 Pre-requis: 
-- une bonne connaissance en système (Ubu)
+- une bonne connaissance en système (U)
 - bases de programmation (notamment en C)
 
 Competences acquises:
