@@ -1,0 +1,16 @@
+Pre-requis: Patience, Bases en Mathématiques, Bases du codage sur machine
+
+
+Competences acquises: 
+-Compréhension du fonctionnement des nombres flottants dans la machine et des problèmes qu'ils peuvent apporter.
+-Utilisation de polynôme de degré n
+-Utilisation d'exponentiels
+-...
+
+Programme: Codage des nombres binaires, Opérations différentiels, ???
+
+
+Ameliorations a apporter: 
+-Pédagogie
+-Support du cours
+-Explication des applications possibles (plus tôt)
